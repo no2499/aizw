@@ -1,4 +1,4 @@
 baseURL = 'https://aizw.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'AI紫微斗數'
 theme = "ananke"
